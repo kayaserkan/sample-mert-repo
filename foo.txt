@@ -39,3 +39,21 @@ yaçünü yazmaya devam ediyoruz dosyaya
 
 aynen bak şimdi şöyle yapalım bu halini de commitleyim sonra bakalım.
 kaydetidoyrm bu yazıdan sonra
+
+Önce staging areadan commite hazı hale getirdik
+
+ve sonra commit ledik şimdi de değişiklik olduğuhnu anladı
+
+yani en son commitledğin andan itibaren takip etmeye başlıyor
+
+değşiklikleri sonra sen bunu git add . diyerek
+
+okey diyorsun ben yaptım değişikliğimi
+
+sonra da commitylirsoun
+
+şimdi daha iyi anladım 
+ok 
+peki versiyonları nasıl takip edicez
+dur şmdi uzak repoya atalım bunu
+
