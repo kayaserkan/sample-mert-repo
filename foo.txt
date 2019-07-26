@@ -1,0 +1,5 @@
+Mustafa Karpuz adamdır.
+La bir du
+Şimdi bak yeni bir dosya ekledim 
+
+git status ile durumuna bakalım
