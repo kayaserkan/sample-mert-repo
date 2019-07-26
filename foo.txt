@@ -2,4 +2,40 @@ Mustafa Karpuz adamdır.
 La bir du
 Şimdi bak yeni bir dosya ekledim 
 
-git status ile durumuna bakalım
+git status ile durumuna bakalımok
+
+şimdi diyorki bak
+
+senin takip etmediğin dosyaların var bunu stagin area diye bir şey var oraya eklemen lazm diyor.
+git in bunu takip etmesi için sen bunu gite söylemen lazım bunu da şöyle yapıyoruz.
+
+git add . => buradaki . bulunduğujmı yeri ekle anlamında tek tek isimde verebilirsin ama gerek yok
+vbeatky  yeşile dönünce git e eklenmiş oldu 
+bunu sabah bir video da izledim bu
+raya kadar ok
+
+tamam şimdi sen bunu stagin area aldın sadece.
+Yani takip ediliyor değişiklikler ama sen işlerini yaptın artık bunu commitlemen lazım.
+
+Commit de şöyle yapacağız.
+
+git commit -m "Temel git dersleri anlatıldı" => -m yazılacak mesajı söylüyorsun
+
+Şimdi sen bunu lokalinde saklamış oldun
+
+yeni bir version çıktın aslında
+
+Bak gördün mü. İlk ınitial commit githubda yaptığkmız kısım.
+
+İkincisi de şibmizim diki
+
+Ama şimdi bak mesala bu değişiklkleri de görüyor olmamız lazım
+
+Çünkü son comit üzerinden değişiklikler oldu
+
+Bak gördün mü modified dior :)
+ok
+yaçünü yazmaya devam ediyoruz dosyaya
+
+aynen bak şimdi şöyle yapalım bu halini de commitleyim sonra bakalım.
+kaydetidoyrm bu yazıdan sonra
