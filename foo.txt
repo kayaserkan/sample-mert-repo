@@ -56,4 +56,100 @@ sonra da commitylirsoun
 ok 
 peki versiyonları nasıl takip edicez
 dur şmdi uzak repoya atalım bunu
+hehü
+
+
+gördün mü bir önceki version ile fakrlarını gösteriyor
+
+
+diyorki yeşil ile ekleme yapmışssın kırımızı ile silmişsiin
+
+tüm commitlerin düştü githua
+
+süper 
+ama o zaman ben doğrumu anladım 
+benim zaten var olan proje dosyama gitkomut satırı ile git erişimine açıcam 
+sonra bunları git addd yapıcam 
+
+
+şöyle şimdi öyle yapalım
+
+çalışan bir klasörün varsa onu yapalım
+
+bak denemek için bir sürü repo açtım vs 
+
+dur baştan yaplım
+ örnek bir c# projesi açalyın sonra git ekleyeyim
+
+dur şimdi
+
+biz sadece localde çalışyrz
+
+adama demedik biz uzak repomuzu
+
+sadece localde versiyonlama yapıyorusz
+
+aslınpdae github gitlab envai çeşit git web stesi
+tek yaptığı senin localdeki commitlerini gösteriyor
+
+ekstra hiç bir şey yok
+görsellik katıyor  o kadar
+
+ok ama commit diyince sanki deneme repo ya attı gibi okudum
+yok yok atmadı ilk bakatım ya git status diye
+içi boştu şimdi uzak repoya atmak için ekleyeim ama dur onun koomutunu hatırlamyrm bakayım bi
+
+bende gereksiz repoları siliyim kafa karıştırmaktan başka bişey değiller
+
+şimdi gönderiyor görüyon dimi
+
+anladım
+şimdi web arayüzünden de bakarak görebilicez
+aynen öyle 
+
+ama tabi herkes görecek public olduğu içeivne t
+bir sn
+
+bu arada senin branch ile işin yok abi şu an.
+
+Yani branchı birden fazla kişi geliştirecekse en son kısmdan ya da baka bir versiyondan dallandırıyorsun projeyi sorna merge ediyorsun
+
+sbenenddirekt master branchında çalış
+
+bende 
+
+dur daha atmadı
+tam biltmedi
+Bitti yalaaaan
+yok bitmedi dah completed etmedi
+
+bitti mi komut girme eri gelior
+
+
+daha bitmedi yazamadı
+
+hala
+lan nereye attın 
+
+samplea
+
+olum şaka diyorum devexpress vs baya büyüyor proje 
+
+al oldu işte
+
+oke mi bak şimdi bakalım visual studio da
+
+ok
+
+
+
+dur anlatyım bir
+
+baj changes da tıkladık bak gösteriyor değişiklikleri gördün mü sağ taraf şuanki hali sol tarafta en son commitlenmiş hali
+
+şimdi biz commitleyim bu değişikliği
+
+gmrdün mü ekledik bakalım düş mü
+
+düşmüş gördün mü şey de yapabilrz hem commitleyim hem de pushlayabilirz uzak repoya
 
